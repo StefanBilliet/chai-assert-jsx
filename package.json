@@ -1,0 +1,22 @@
+{
+  "name": "chai-assert-jsx",
+  "version": "1.0.0",
+  "description": "A chai assertion plugin to compare JSX elements, without trying to compare functions on those elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanBilliet/chaiEqualJSX.git"
+  },
+  "author": "Stefan Billiet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StefanBilliet/chaiEqualJSX/issues"
+  },
+  "homepage": "https://github.com/StefanBilliet/chaiEqualJSX#readme",
+  "dependencies": {
+    "react-element-to-jsx-string": "^2.4.0"
+  }
+}
