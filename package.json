@@ -1,6 +1,6 @@
 {
   "name": "chai-assert-jsx",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A chai assertion plugin to compare JSX elements, without trying to compare functions on those elements",
   "main": "index.js",
   "scripts": {
