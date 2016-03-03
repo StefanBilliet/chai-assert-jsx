@@ -11,7 +11,7 @@ Install via [npm](http://npmjs.org):
 npm install chai-assert-jsx
 ```
 
-You can then use this plugin as any other Chai plugins:
+You can then use this plugin like any other Chai plugin:
 
 ```js
 import chai, {assert} from 'chai';
@@ -19,7 +19,6 @@ import assertJSX from 'chai-assert-jsx'
 
 chai.use(assertJSX);
 
-
- assert.equalJSX(<div></div>, <div></div>);
+assert.equalJSX(<div></div>, <div></div>);
 
 ```
