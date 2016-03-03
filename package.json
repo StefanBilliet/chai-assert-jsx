@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StefanBilliet/chaiEqualJSX.git"
+    "url": "git+https://github.com/StefanBilliet/chai-assert-jsx.git"
   },
   "author": "Stefan Billiet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/StefanBilliet/chaiEqualJSX/issues"
+    "url": "https://github.com/StefanBilliet/chai-assert-jsx/issues"
   },
-  "homepage": "https://github.com/StefanBilliet/chaiEqualJSX#readme",
+  "homepage": "https://github.com/StefanBilliet/chai-assert-jsx#readme",
   "dependencies": {
     "react-element-to-jsx-string": "^2.4.0"
   }
