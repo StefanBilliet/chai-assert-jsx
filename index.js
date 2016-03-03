@@ -1,6 +1,6 @@
-import reactElementToJSXString from 'react-element-to-jsx-string';
+var reactElementToJSXString = require('react-element-to-jsx-string');
 
-export default function (_chai, utils) {
+module.exports = function (_chai, utils) {
   var Assertion = _chai.Assertion;
 
   Assertion.addMethod('equalJSX', function(expected){
